@@ -51,6 +51,15 @@ The analysis in the `Gamess.pbix` file includes:
 - Top-selling games and genres.
 - Sales distribution across different regions.
 
+## Screenshots
+
+Here are some screenshots of the analysis:
+
+1. ![Screenshot 1](path/to/screenshot1.png)
+2. ![Screenshot 2](path/to/screenshot2.png)
+3. ![Screenshot 3](path/to/screenshot3.png)
+4. ![Screenshot 4](path/to/screenshot4.png)
+
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request.
