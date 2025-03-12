@@ -55,10 +55,11 @@ The analysis in the `Gamess.pbix` file includes:
 
 Here are some screenshots of the analysis:
 
-1. ![Screenshot 1](path/to/screenshot1.png)
-2. ![Screenshot 2](path/to/screenshot2.png)
-3. ![Screenshot 3](path/to/screenshot3.png)
-4. ![Screenshot 4](path/to/screenshot4.png)
+1. ![Screenshot 1](https://github.com/saif131/Games-Sales-Analysis/blob/main/Screenshot%20(287).png)
+2. ![Screenshot 2](https://github.com/saif131/Games-Sales-Analysis/blob/main/Screenshot%20(289).png)
+3. ![Screenshot 3](https://github.com/saif131/Games-Sales-Analysis/blob/main/Screenshot%20(290).png))
+4. ![Screenshot 4](https://github.com/saif131/Games-Sales-Analysis/blob/main/Screenshot%20(291).png))
+5. ![Screenshot 1](https://github.com/saif131/Games-Sales-Analysis/blob/main/Screenshot%20(292).png)
 
 ## Contributing
 
